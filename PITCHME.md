@@ -1,5 +1,6 @@
 ## Tudo a seguir pode ser encontrado em:
 
+Para visualizar a apresentacao basta: [Clicar Aqui](https://gitpitch.com/iblackman/gitpitch)
 [Aqui](https://guides.github.com/features/mastering-markdown/)
 
 ---
@@ -32,6 +33,10 @@ _You **can** combine them_
 * Item 2
   * Item 2a
   * Item 2b
+
+---
+
+# Lists
 ## Ordered
 
 1. Item 1
