@@ -1,7 +1,9 @@
 ## Tudo a seguir pode ser encontrado em:
 
-Para visualizar a apresentacao basta: [Clicar Aqui](https://gitpitch.com/iblackman/gitpitch)
 [Aqui](https://guides.github.com/features/mastering-markdown/)
+
+## Para visualizar a apresentacao basta: 
+[Clicar Aqui](https://gitpitch.com/iblackman/gitpitch)
 
 ---
 
