@@ -23,7 +23,7 @@ Comparativo
 mais coisa
 
 ---
-<img src="https://kb.status.io/wp-content/uploads/2016/04/logo-black-v9.png">
+<img src="https://kb.status.io/wp-content/uploads/2016/04/logo-black-v9.png" style="position:absolute;">
 ##Status.io
 Comparativo
 
