@@ -9,7 +9,7 @@
 ##StatusPage.io
 Comparativo
 
-+++?image=https://dka575ofm4ao0.cloudfront.net/assets/base/logos/atlassian-statuspage-light-02020fc4bed104d7e067b9deb96df859.svg
++++?image=../assets/statusPage.png
 
 * Já disponibiliza uma pagina, criada externamente
 * Availability-Zone Redundant
