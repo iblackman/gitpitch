@@ -38,12 +38,12 @@ Comparativo
 
 mais
 
----?image=assets/cachet.png
+---?image=assets/cachet.jpg
 
 ##Cachet
 Comparativo
 
-+++?image=assets/cachet.png
++++?image=assets/cachet.jpg
 
 * Open source
 * Lista de componentes
@@ -54,7 +54,7 @@ Comparativo
 
 * Precisaria criar infra 
 
-+++?image=assets/cachet.png
++++?image=assets/cachet.jpg
 
 mais
 
