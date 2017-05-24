@@ -43,7 +43,7 @@ mais
 ##Cachet
 Comparativo
 
-+++?image=assets/cachet.jpg
++++?image=assets/cachet.png
 
 * Open source
 * Lista de componentes
