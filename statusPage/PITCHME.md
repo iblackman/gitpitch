@@ -4,12 +4,12 @@
 
 ##Comparativo
 
----?image=https://media.licdn.com/media/p/8/005/014/337/10cf1c7.png
+---?image=https://dka575ofm4ao0.cloudfront.net/assets/base/logos/atlassian-statuspage-light-02020fc4bed104d7e067b9deb96df859.svg
 
 ##StatusPage.io
 Comparativo
 
-+++
++++?image=https://dka575ofm4ao0.cloudfront.net/assets/base/logos/atlassian-statuspage-light-02020fc4bed104d7e067b9deb96df859.svg
 
 * Já disponibiliza uma pagina, criada externamente
 * Availability-Zone Redundant
@@ -18,12 +18,12 @@ Comparativo
 * Custom design
 * Custom url
 
-+++
++++?image=https://dka575ofm4ao0.cloudfront.net/assets/base/logos/atlassian-statuspage-light-02020fc4bed104d7e067b9deb96df859.svg
 
 mais coisa
 
----?image=https://dka575ofm4ao0.cloudfront.net/assets/base/logos/atlassian-statuspage-light-02020fc4bed104d7e067b9deb96df859.svg
-
+---
+<img src="https://kb.status.io/wp-content/uploads/2016/04/logo-black-v9.png">
 ##Status.io
 Comparativo
 
