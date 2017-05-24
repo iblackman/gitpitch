@@ -24,9 +24,8 @@ mais coisa
 
 ---
 
-Comparativo
-
 ##Status.io
+Comparativo
 
 +++
 
@@ -42,7 +41,8 @@ mais
 ---
 
 ##Cachet
-###Comparativo
+Comparativo
+
 +++
 
 * Open source
@@ -51,7 +51,8 @@ mais
 * Api json
 * notifications email
 
-* Precisa criar infra 
+
+* Precisaria criar infra 
 
 +++
 
