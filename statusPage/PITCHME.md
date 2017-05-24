@@ -9,7 +9,7 @@
 ##StatusPage.io
 Comparativo
 
-+++?image=../assets/statusPage.png
++++?image=assets/statusPage.png
 
 * Já disponibiliza uma pagina, criada externamente
 * Availability-Zone Redundant
@@ -18,7 +18,7 @@ Comparativo
 * Custom design
 * Custom url
 
-+++?image=https://dka575ofm4ao0.cloudfront.net/assets/base/logos/atlassian-statuspage-light-02020fc4bed104d7e067b9deb96df859.svg
++++?image=assets/statusPage.png
 
 mais coisa
 
@@ -27,23 +27,23 @@ mais coisa
 ##Status.io
 Comparativo
 
-+++
++++?image=assets/statusio.png
 
 * Já disponibiliza uma pagina, criada externamente
 * Disaster Recovery
 * Flexible DNS
 * Multiple Geographic Regions
 
-+++
++++?image=assets/statusio.png
 
 mais
 
----
+---?image=assets/cachet.png
 
 ##Cachet
 Comparativo
 
-+++
++++?image=assets/cachet.png
 
 * Open source
 * Lista de componentes
@@ -54,7 +54,7 @@ Comparativo
 
 * Precisaria criar infra 
 
-+++
++++?image=assets/cachet.png
 
 mais
 
