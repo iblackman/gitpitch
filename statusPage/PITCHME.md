@@ -4,7 +4,7 @@
 
 ##Comparativo
 
----
+---?image=https://media.licdn.com/media/p/8/005/014/337/10cf1c7.png
 
 ##StatusPage.io
 Comparativo
@@ -22,7 +22,7 @@ Comparativo
 
 mais coisa
 
----
+---?image=https://dka575ofm4ao0.cloudfront.net/assets/base/logos/atlassian-statuspage-light-02020fc4bed104d7e067b9deb96df859.svg
 
 ##Status.io
 Comparativo
