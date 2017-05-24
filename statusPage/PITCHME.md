@@ -4,9 +4,13 @@
 
 ##Comparativo
 
-###StatusPage.io
+---
 
-* Já disponibiliza uma pagina criada externamente
+##StatusPage.io
+
++++
+
+* Já disponibiliza uma pagina, criada externamente
 * Availability-Zone Redundant
 * Region Redundant
 * 100% Transparent
@@ -18,11 +22,36 @@
 mais coisa
 
 ---
-##Comparativo
 
-###Status.io
+##Status.io
 
-* Já disponibiliza uma pagina criada externamente
++++
+
+* Já disponibiliza uma pagina, criada externamente
 * Disaster Recovery
 * Flexible DNS
 * Multiple Geographic Regions
+
++++
+
+mais
+
+---
+
+##Cachet
+
++++
+
+* Open source
+* Lista de componentes
+* Metrics
+* Api json
+* notifications email
+
+* Precisa criar infra 
+
++++
+
+mais
+
+---
