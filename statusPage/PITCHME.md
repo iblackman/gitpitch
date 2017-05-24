@@ -4,7 +4,7 @@
 
 ##Comparativo
 
----?image=statusPage.png
+---?image=assets/statusPage.png
 
 ##StatusPage.io
 Comparativo
@@ -22,8 +22,8 @@ Comparativo
 
 mais coisa
 
----
-<img src="https://kb.status.io/wp-content/uploads/2016/04/logo-black-v9.png" style="position:absolute;">
+---?image=assets/statusio.png
+
 ##Status.io
 Comparativo
 
