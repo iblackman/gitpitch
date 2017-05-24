@@ -7,6 +7,7 @@
 ---
 
 ##StatusPage.io
+Comparativo
 
 +++
 
@@ -22,6 +23,8 @@
 mais coisa
 
 ---
+
+Comparativo
 
 ##Status.io
 
@@ -39,7 +42,7 @@ mais
 ---
 
 ##Cachet
-
+###Comparativo
 +++
 
 * Open source
