@@ -23,35 +23,35 @@ Comparativo
 ###Valores
 
 Hobby ($29/Mo)
-```
-250 Subscribedrs
-2 Team Members
-2 Metrics 
-```
+
+- 250 Subscribedrs
+- 2 Team Members
+- 2 Metrics 
+
 +++?image=assets/statusPage.png
 
 ###Valores
 
 Startup ($99/Mo)
-```
-1000 Subscribedrs
-10 Team Members
-10 Metrics 
-```
+
+- 1000 Subscribedrs
+- 10 Team Members
+- 10 Metrics 
+
 
 +++?image=assets/statusPage.png
 
 ###Valores
 
 Business ($399/Mo)
-```
-5000 Subscribedrs
-25 Team Members
-25 Metrics 
-    Component Subscriptions
-    Secured Custom Domain (SSL)
-    Yearly PO & Invoicing Available
-```
+
+- 5000 Subscribedrs
+- 25 Team Members
+- 25 Metrics 
+    - Component Subscriptions
+    - Secured Custom Domain (SSL)
+    - Yearly PO & Invoicing Available
+
 
 ---?image=assets/statusio.png
 
@@ -107,7 +107,6 @@ Comparativo
 * Metrics
 * Api json
 * notifications email
-
 
 * Precisaria criar infra 
 
