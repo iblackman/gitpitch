@@ -23,9 +23,11 @@ Comparativo
 ###Valores
 
 Hobby ($29/Mo)
-> 250 Subscribedrs
-> 2 Team Members
-> 2 Metrics 
+```
+250 Subscribedrs
+2 Team Members
+2 Metrics 
+```
 
 Startup ($99/Mo)
 > 1000 Subscribedrs
