@@ -70,22 +70,30 @@ Comparativo
 ###Valores
 
 Lite ($29/Mo)
-> 300 Subscribedrs
-> 3 Team Members
-> 3 Metrics 
+- 300 Subscribedrs
+- 3 Team Members
+- 3 Metrics 
+
++++?image=assets/statusio.png
+
+###Valores
 
 Pro ($79/Mo)
-> 1500 Subscribedrs
-> 15 Team Members
-> 15 Metrics 
+- 1500 Subscribedrs
+- 15 Team Members
+- 15 Metrics 
+
++++?image=assets/statusio.png
+
+###Valores
 
 Business ($299/Mo)
-> 5000 Subscribedrs
-> 50 Team Members
-> 50 Metrics 
-    > Encrypted connections with your own domain and SSL certificate
-    > Limit visibility to specific networks
-    > Pay via credit card or PO invoicing
+- 5000 Subscribedrs
+- 50 Team Members
+- 50 Metrics 
+    - Encrypted connections with your own domain and SSL certificate
+    - Limit visibility to specific networks
+    - Pay via credit card or PO invoicing
 
 ---?image=assets/cachet.jpg
 
