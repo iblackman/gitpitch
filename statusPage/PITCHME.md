@@ -11,12 +11,22 @@ Comparativo
 
 +++?image=assets/statusPage.png
 
+###Positivos
+
 * Já disponibiliza uma pagina, criada externamente
 * Availability-Zone Redundant
 * Region Redundant
 * 100% Transparent
 * Custom design
 * Custom url
+
++++?image=assets/statusPage.png
+
+###Negativos
+
+- Não é muito intuitivo para arrumar a ordem das sections na pagina (precisa usar CSS e javascript)[Status.io]
+- Nao achei por enquanto uma forma de mostrar umas metricas como: dias sem incidentes [Status.io]
+
 
 +++?image=assets/statusPage.png
 
@@ -60,10 +70,21 @@ Comparativo
 
 +++?image=assets/statusio.png
 
+###Positivos
+
 * Já disponibiliza uma pagina, criada externamente
 * Disaster Recovery
 * Flexible DNS
 * Multiple Geographic Regions
+
++++?image=assets/statusio.png
+
+###Negativos
+
+- Quando se tem um incidente linkado a um componente, a toda atualizacao do incidente os status de todos os components linkados são atualizados
+- Não possui subcription por component
+- Dificuldade para integrar notificações com o slack
+- Api necessita de mais parametros, pior para trabalhar
 
 +++?image=assets/statusio.png
 
