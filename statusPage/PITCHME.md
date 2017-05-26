@@ -145,8 +145,6 @@ Comparativo
 * Api json
 * notifications email
 
-* Precisaria criar infra 
-
 +++?image=assets/cachet.jpg
 
 ###Negativos
