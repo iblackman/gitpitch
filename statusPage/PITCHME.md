@@ -77,7 +77,7 @@ Enterprise (começa em $1499/Mo)
 
 ---
 
-<img alt="StatusPage.io" src="https://kb.status.io/wp-content/uploads/2016/04/logo-black-v9.png" height=220 style="border: none;box-shadow: none;">
+<img alt="Status.io" src="https://kb.status.io/wp-content/uploads/2016/04/logo-black-v9.png" height=220 style="border: none;box-shadow: none;">
 
 Comparativo
 
@@ -85,10 +85,11 @@ Comparativo
 
 ###Positivos
 
-* Já disponibiliza uma pagina, criada externamente
-* Disaster Recovery
-* Flexible DNS
-* Multiple Geographic Regions
+- Já disponibiliza uma pagina, criada externamente
+- Existe a possibilidade de mostrar os componentes horizontalmente ou verticalmente(StatusPage)
+- Disaster Recovery
+- Flexible DNS
+- Multiple Geographic Regions
 
 +++?image=assets/statusio.png
 
@@ -131,7 +132,7 @@ Business ($299/Mo)
 
 ---
 
-<img alt="StatusPage.io" src="https://blog.alt-three.com/content/images/2015/06/Cachet.svg" height=220 style="border: none;box-shadow: none;">
+<img alt="Cachet" src="https://blog.alt-three.com/content/images/2015/06/Cachet.svg" height=220 style="border: none;box-shadow: none;">
 
 Comparativo
 
