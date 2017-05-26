@@ -158,7 +158,7 @@ Comparativo
 
 ---
 
-<img alt="comparison table" src="../assets/comparisonTable.png" height=594 style="border: none;box-shadow: none;">
+<img alt="comparison table" src="assets/comparisonTable.png" height=594 style="border: none;box-shadow: none;">
 
 ---
 
