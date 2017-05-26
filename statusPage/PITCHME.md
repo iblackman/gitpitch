@@ -7,7 +7,6 @@
 ---?image=assets/statusPage.png
 
 ![StatusPage.io](https://media.licdn.com/media/p/8/005/014/337/10cf1c7.png)
-<img src="https://media.licdn.com/media/p/8/005/014/337/10cf1c7.png" heigth=220>
 Comparativo
 
 +++?image=assets/statusPage.png
@@ -81,7 +80,7 @@ Enterprise (começa em $1499/Mo)
 
 ---?image=assets/statusio.png
 
-##Status.io
+![Status.io](https://kb.status.io/wp-content/uploads/2016/04/logo-black-v9.png)
 Comparativo
 
 +++?image=assets/statusio.png
@@ -134,7 +133,7 @@ Business ($299/Mo)
 
 ---?image=assets/cachet.jpg
 
-##Cachet
+![Cachet](https://blog.alt-three.com/content/images/2015/06/Cachet.svg)
 Comparativo
 
 +++?image=assets/cachet.png
