@@ -6,8 +6,8 @@
 
 ---?image=assets/statusPage.png
 
-![StatusPage.io](https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj2kpv6oI7UAhVGvJAKHS_5AYYQjRwIBw&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fstatuspage-io&psig=AFQjCNGgto_3JOSfipFFcl-lU7AzE6NpgQ&ust=1495912088245656)
-<img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj2kpv6oI7UAhVGvJAKHS_5AYYQjRwIBw&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fstatuspage-io&psig=AFQjCNGgto_3JOSfipFFcl-lU7AzE6NpgQ&ust=1495912088245656" heigth=220>
+![StatusPage.io](https://media.licdn.com/media/p/8/005/014/337/10cf1c7.png)
+<img src="https://media.licdn.com/media/p/8/005/014/337/10cf1c7.png" heigth=220>
 Comparativo
 
 +++?image=assets/statusPage.png
