@@ -6,7 +6,7 @@
 
 ---?image=assets/statusPage.png
 
-<img alt="StatusPage.io" src="https://victorops.com/wp-content/uploads/2015/10/status.png" height=200>
+<img alt="StatusPage.io" src="https://victorops.com/wp-content/uploads/2015/10/status.png" height=200 style="border: none;box-shadow: none;">
 
 Comparativo
 
@@ -81,7 +81,7 @@ Enterprise (começa em $1499/Mo)
 
 ---?image=assets/statusio.png
 
-<img alt="StatusPage.io" src="https://kb.status.io/wp-content/uploads/2016/04/logo-black-v9.png" height=220>
+<img alt="StatusPage.io" src="https://kb.status.io/wp-content/uploads/2016/04/logo-black-v9.png" height=220 style="border: none;box-shadow: none;">
 
 Comparativo
 
@@ -135,7 +135,7 @@ Business ($299/Mo)
 
 ---?image=assets/cachet.jpg
 
-<img alt="StatusPage.io" src="https://blog.alt-three.com/content/images/2015/06/Cachet.svg" height=220>
+<img alt="StatusPage.io" src="https://blog.alt-three.com/content/images/2015/06/Cachet.svg" height=220 style="border: none;box-shadow: none;">
 
 Comparativo
 
