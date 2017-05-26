@@ -1,8 +1,4 @@
-#Status Page Tecnologia
-
----
-
-##Comparativo
+#Comparativo Status Page
 
 ---
 
@@ -141,6 +137,8 @@ Comparativo
 
 +++?image=assets/cachet.png
 
+###Positivos
+
 * Open source
 * Lista de componentes
 * Metrics
@@ -151,6 +149,12 @@ Comparativo
 
 +++?image=assets/cachet.jpg
 
-mais
+###Negativos
+
+- Faltam features:
+    - Histórico do incidente
+    - link de um incident com um component
+    - Poucas opções de notificação
+- Teriamos que providenciar a infraestrutura
 
 ---
