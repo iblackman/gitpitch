@@ -160,14 +160,14 @@ Comparativo
 
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
-<link href="./assests/PITCHME.css" rel="stylesheet">
+<link href="../assests/PITCHME.css" rel="stylesheet">
 
 <div class="container">
     <div class="row">
         <div class="col-xs-12 col-sm-offset-4 col-sm-8">
             <div class="row">
                 <div class="col-xs-4 my_planHeader my_plan1">
-                    <div class="my_planTitle">LANDesk</div>
+                    <div class="my_planTitle">LAND4esk</div>
                     <div class="my_planPrice">Free</div>
                     <div class="my_planDuration"> </div>
                     <a type="button" class="btn btn-default">Sign Up</a>
