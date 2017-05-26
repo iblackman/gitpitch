@@ -160,6 +160,8 @@ Comparativo
 
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
+<link href="./assests/PITCHME.css" rel="stylesheet">
+
 <div class="container">
     <div class="row">
         <div class="col-xs-12 col-sm-offset-4 col-sm-8">
