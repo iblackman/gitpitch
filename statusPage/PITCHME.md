@@ -180,3 +180,4 @@ Private Page Pricing
 +++
 
 ###Workflow Incidents
+<img alt="workflow solarwinds status page" src="assets/workflow_incidents_statuspage.png" height=500 style="border: none;box-shadow: none;">
