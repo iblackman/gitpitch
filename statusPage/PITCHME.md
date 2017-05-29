@@ -158,7 +158,19 @@ Comparativo
 
 ---
 
-<img alt="comparison table" src="assets/comparisonTable.png" height=594 style="border: none;box-shadow: none;">
+<img alt="comparison table" src="assets/comparisonTable.png" height=550 style="border: none;box-shadow: none;">
 
 ---
+
+###StatusPage.io Pricing
+<img alt="comparison table" src="assets/publicPricingTable.png" height=550 style="border: none;box-shadow: none;">
+
+---
+
+##Workflow SolarWinds e Status Page
+<img alt="comparison table" src="assets/workflow_solarwinds_statuspage.png" height=550 style="border: none;box-shadow: none;">
+
+---
+
+
 
