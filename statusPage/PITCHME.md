@@ -162,20 +162,21 @@ Comparativo
 
 ---
 
-###StatusPage.io Public Page Pricing
+###StatusPage.io 
+Public Page Pricing
 <img alt="public pricing table" src="assets/publicPricingTable.png" height=490 style="border: none;box-shadow: none;">
 
 +++
 
-###StatusPage.io Private Page Pricing
-<img alt="public pricing table" src="assets/privatePricingTable.png" height=470 style="border: none;box-shadow: none;">
+###StatusPage.io 
+Private Page Pricing
+<img alt="public pricing table" src="assets/privatePricingTable.png" height=430 style="border: none;box-shadow: none;">
 
 ---
 
 ###Workflow SolarWinds e Status Page
 <img alt="workflow solarwinds status page" src="assets/workflow_solarwinds_statuspage.png" height=500 style="border: none;box-shadow: none;">
 
----
++++
 
-
-
+###Workflow Incidents
