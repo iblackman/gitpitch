@@ -162,8 +162,13 @@ Comparativo
 
 ---
 
-###StatusPage.io Pricing
+###StatusPage.io Public Page Pricing
 <img alt="public pricing table" src="assets/publicPricingTable.png" height=550 style="border: none;box-shadow: none;">
+
++++
+
+###StatusPage.io Private Page Pricing
+<img alt="public pricing table" src="assets/privatePricingTable.png" height=550 style="border: none;box-shadow: none;">
 
 ---
 
